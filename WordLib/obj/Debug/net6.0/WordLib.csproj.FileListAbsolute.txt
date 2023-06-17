@@ -1,0 +1,12 @@
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\bin\Debug\net6.0\WordLib.deps.json
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\bin\Debug\net6.0\WordLib.dll
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\bin\Debug\net6.0\WordLib.pdb
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.csproj.AssemblyReference.cache
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.AssemblyInfoInputs.cache
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.AssemblyInfo.cs
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.dll
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\refint\WordLib.dll
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\WordLib.pdb
+C:\Users\Arvid\OneDrive\yhProj\C#\WordLib\WordLib\obj\Debug\net6.0\ref\WordLib.dll
